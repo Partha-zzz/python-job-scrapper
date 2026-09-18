@@ -4,6 +4,8 @@ A beginner-friendly web scraping project built with Python that collects job lis
 
 The scraper extracts useful information from each job posting and stores the collected data in a CSV file for easy viewing and further analysis.
 
+Project Idea from - https://roadmap.sh/projects/job-listings-scraper
+
 ---
 
 ## 📌 About the Project
